@@ -11,8 +11,8 @@ echo -e "\e[1mWHATSAPP :+8801989861704
 echo -e "\e[1mGithub: github.com/BINOD-XD"
 echo "----------------------------------" | lolcat
 echo "
-+-+-+-+-+-+-+-+
-|W|e|l|c|o|m|e|
-+-+-+-+-+-+-+-+ " | lolcat
+--------------
+Reyad X Shipu
+-------------- " | lolcat
 date | lolcat
 echo ""
